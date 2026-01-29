@@ -1,0 +1,60 @@
+// This is an example file. After running `flutterfire configure`,
+// this file will be generated automatically with your Firebase configuration.
+// 
+// To set up Firebase:
+// 1. Install Firebase CLI: npm install -g firebase-tools
+// 2. Install FlutterFire CLI: dart pub global activate flutterfire_cli
+// 3. Run: flutterfire configure
+// 4. Select your Firebase project and platforms
+
+// Example structure (DO NOT USE - this is just for reference):
+/*
+import 'package:firebase_core/firebase_core.dart' show FirebaseOptions;
+import 'package:flutter/foundation.dart'
+    show defaultTargetPlatform, kIsWeb, TargetPlatform;
+
+class DefaultFirebaseOptions {
+  static FirebaseOptions get currentPlatform {
+    if (kIsWeb) {
+      return web;
+    }
+    switch (defaultTargetPlatform) {
+      case TargetPlatform.android:
+        return android;
+      case TargetPlatform.iOS:
+        return ios;
+      default:
+        throw UnsupportedError(
+          'DefaultFirebaseOptions are not supported for this platform.',
+        );
+    }
+  }
+
+  static const FirebaseOptions web = FirebaseOptions(
+    apiKey: 'your-api-key',
+    appId: 'your-app-id',
+    messagingSenderId: 'your-sender-id',
+    projectId: 'your-project-id',
+    authDomain: 'your-project.firebaseapp.com',
+    storageBucket: 'your-project.appspot.com',
+  );
+
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'your-api-key',
+    appId: 'your-app-id',
+    messagingSenderId: 'your-sender-id',
+    projectId: 'your-project-id',
+    storageBucket: 'your-project.appspot.com',
+  );
+
+  static const FirebaseOptions ios = FirebaseOptions(
+    apiKey: 'your-api-key',
+    appId: 'your-app-id',
+    messagingSenderId: 'your-sender-id',
+    projectId: 'your-project-id',
+    storageBucket: 'your-project.appspot.com',
+    iosBundleId: 'com.example.flutterFoodApp',
+  );
+}
+*/
+
